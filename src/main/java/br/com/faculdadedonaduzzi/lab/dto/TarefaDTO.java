@@ -1,4 +1,4 @@
-git checkout brpackage br.com.faculdadedonaduzzi.lab.dto;
+package br.com.faculdadedonaduzzi.lab.dto;
 
 import br.com.faculdadedonaduzzi.lab.entity.Task;
 import br.com.faculdadedonaduzzi.lab.entity.TaskStatus;

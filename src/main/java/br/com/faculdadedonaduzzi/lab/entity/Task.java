@@ -2,6 +2,7 @@ package br.com.faculdadedonaduzzi.lab.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
+import java.util.Date;
 
 @Data
 @Entity
